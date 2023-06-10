@@ -1,14 +1,14 @@
 <div>
       <div class="w-full">
-        <div class=" bg-white">
+        <div class=" bg-white pt-16">
           <div class="pt-16">
             <h1 class="text-[#c00000] text-center text-3xl font-[600]">
               CONTACT US
             </h1>
             <div class="w-48 h-[2px] mx-auto mt-2 bg-[#100464] rounded-xl"></div>
           </div>
-          <div class="flex justify-center">
-            <div class="bg-[#f0f0f0] w-[25%] m-[5%] pb-[2%] rounded-lg">
+          <div class="md:flex  justify-center">
+            <div class="bg-[#f0f0f0] md:w-[25%] m-[5%] pb-[2%] rounded-lg">
             <i class="fa-solid fa-location-dot ml-[48%] text-[30px] mt-6 mb-4 text-[#c00000]"></i>
               <div class="text-center text-[21px] font-[500] ">
                 CONFERENCE VENUE
@@ -26,7 +26,7 @@
                 </h1>
               </div>
             </div>
-            <div class="bg-[#f0f0f0] w-[25%] m-[5%] pb-[2%] rounded-lg">
+            <div class="bg-[#f0f0f0] md:w-[25%] m-[5%] pb-[2%] rounded-lg">
             <i class="fa-solid fa-phone ml-[48%] text-[30px] mt-6 mb-4 text-[#c00000]"></i>
               <div class="text-center text-[21px] font-[500] ">
                 PHONE NUMBER
@@ -40,14 +40,14 @@
                 </h1>
               </div>
             </div>
-            <div class="bg-[#f0f0f0] w-[25%] m-[5%] pb-[2%] rounded-lg">
+            <div class="bg-[#f0f0f0] md:w-[25%] m-[5%] pb-[2%] rounded-lg">
             <i class="fa-solid fa-envelope ml-[48%] text-[30px] mt-6 mb-4 text-[#c00000]"></i>
               <div class="text-center text-[21px] font-[500] ">
                 EMAIL ADDRESS
               </div>
               <div class="text-center">
                 <h1 class="text-gray-400 text-[22px] font-[500] mt-6">
-                  info@icaia2020.com
+                  info@icaia2023.com
                 </h1>
               </div>
             </div>

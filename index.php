@@ -14,20 +14,10 @@
     <?php include("./navbar.php")?>
     <?php include("./header.php")?>
     <?php include("./about.php")?>
+    <?php include("./committee.php")?>
     <?php include("./contact.php")?>
   </body>
-  <script>
-const navbar = document.getElementById('navbar');
-const navbarHeight = navbar.offsetHeight;
-
-window.addEventListener('scroll', function() {
-  if (window.scrollY > navbarHeight) {
-    navbar.style.backgroundColor = '#100464';
-  } else {
-    navbar.style.backgroundColor = 'transparent';
-  }
-});
-
-
-  </script>
+  <script src="./scripts/scrollNav.js"></script>
+  <script src="./scripts/committees.js"></script>
+ <script src="./scripts/committeesDropdown.js"></script>
 </html>
