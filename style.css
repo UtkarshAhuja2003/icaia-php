@@ -1,0 +1,6 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-image: url("./header_back.jpg");
+    background-attachment: fixed;
+}
