@@ -14,6 +14,8 @@
     <?php include("./navbar.php")?>
     <?php include("./header.php")?>
     <?php include("./about.php")?>
+    <?php include("./tracks.php")?>
+    <?php include("./committee.php")?>
     <?php include("./contact.php")?>
     <?php include("./footer.php")?>
   </body>
