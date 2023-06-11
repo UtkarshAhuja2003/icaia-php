@@ -3,7 +3,7 @@ const navbarHeight = navbar.offsetHeight;
 
 window.addEventListener('scroll', function() {
   if (window.scrollY > navbarHeight) {
-    navbar.style.backgroundColor = '#100464';
+    navbar.style.backgroundColor = '#041C32';
   } else {
     navbar.style.backgroundColor = 'transparent';
   }

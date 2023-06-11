@@ -14,9 +14,10 @@
     <?php include("./navbar.php")?>
     <?php include("./header.php")?>
     <?php include("./about.php")?>
-    <?php include("./committee.php")?>
     <?php include("./contact.php")?>
+    <?php include("./footer.php")?>
   </body>
+  <script src="./scripts/navbar.js"></script>
   <script src="./scripts/scrollNav.js"></script>
   <script src="./scripts/committees.js"></script>
  <script src="./scripts/committeesDropdown.js"></script>

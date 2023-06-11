@@ -4,7 +4,7 @@ body{
     overflow-x: hidden;
     background-position: center;
     background-size: cover;
-    background-image: url("./header_back.jpg");
+    background-image: url("./images/header_back.jpg");
     background-attachment: fixed;
 }
 .dropdown {
@@ -44,4 +44,9 @@ body{
   .dropdown-menu.hidden {
     opacity: 0;
     visibility: hidden;
+  }
+
+  .footer{
+    /* background-image: url("./images/footer-back.png"); */
+    z-index: 20;
   }
