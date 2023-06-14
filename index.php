@@ -16,6 +16,7 @@
     <?php include("./about.php")?>
     <?php include("./tracks.php")?>
     <?php include("./committee.php")?>
+    <?php include("./registrations.php")?>
     <?php include("./submissions.php")?>
     <?php include("./contact.php")?>
     <?php include("./footer.php")?>
