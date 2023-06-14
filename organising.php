@@ -103,10 +103,22 @@
       </button>
       <ul id="finance_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
-          <strong>Dr. Arun Solanki</strong>, MSIT
+          <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Seema Verma</strong>, MSIT
+          <strong>Dr. Suneel Gupta</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
+          <strong>Dr. Shalu</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
+          <strong>Ms. Kritika</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
+          <span class="org_comm_headings">WIT:</span>
+        </li>
+        <li class="px-3 py-2">
+          <strong>Dr. Deirdre Donovan</strong>
         </li>
       </ul>
     </li>
@@ -116,16 +128,22 @@
       </button>
       <ul id="publication_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
-          <strong>Dr. Neha Sahu</strong>, MSIT
+          <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Manpreet Singh</strong>, MSIT
+          <strong>Prof. A.K. Singh</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
+          <strong>Dr. Anju Dhillon</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
+          <strong>Dr. Deepshikha Yadav</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Xuanzhe Liu</strong>
+          <strong>Dr. Aspen Olmsted</strong>
         </li>
       </ul>
     </li>
