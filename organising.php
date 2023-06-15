@@ -56,7 +56,7 @@
           <strong>Dr. Prabhjot Kaur</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Koyal Dutta Gupta</strong>, MSIT
+          <strong>Dr. Koyal Datta Gupta</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
@@ -181,13 +181,13 @@
       </button>
       <ul id="website_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
-          <strong>Dr. Naresh</strong>
+          <strong>Dr. Naresh Kumar</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Adeel</strong>
+          <strong>Dr. Adeel Hashmi</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Mr. Vikrant Shokeen</strong>
+          <strong>Dr. Vikrant Shokeen</strong>
         </li>
       </ul>
     </li>

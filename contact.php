@@ -47,7 +47,7 @@
               </div>
               <div class="text-center">
                 <h1 class="text-gray-400 text-[22px] font-[500] mt-6">
-                  info@icaia2023.com
+                  info@icaia-msit.in
                 </h1>
               </div>
             </div>

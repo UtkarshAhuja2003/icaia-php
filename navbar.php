@@ -1,9 +1,12 @@
 
   <nav id="navbar" class="z-50 w-full fixed top-0 left-0">
-    <div class="md:flex items-center justify-between bg-theme py-4 xl:px-16 px-6 md:px-14">
+    <div class="md:flex items-center justify-between bg-theme py-1 xl:px-16 px-6 md:px-14">
       <div class="cursor-pointer">
         <a href="/">
-        <img class='z-10 w-16' src="https://msit.in/static/img/msit.png" alt="" />
+        <div class="flex justify-left">
+        <img class='z-10 w-[80px] mt-1 h-[75px]' src="https://msit.in/static/img/msit.png" alt="" />
+        <img class='z-10 w-[120px]' src="./images/witLogo.png" alt="" />
+        </div>
         </a>
       </div>
       <div id="menu-toggle" class="text-3xl text-white absolute right-8 top-6 cursor-pointer md:hidden">
