@@ -34,7 +34,7 @@
           <strong>Dr. Geetika Dhand</strong>, Department of Computer Science and Engineering, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Ms. Geetanjali Sharma</strong>, Department of Electronics and Communication Engineering, MSIT
+          <strong>Dr. Geetanjali Sharma</strong>, Department of Electronics and Communication Engineering, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Mehmet Ergezer</strong>, School of Computing and Data Science, WIT
@@ -81,7 +81,7 @@
           <strong>Dr. Puneet Azad</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Anupma Kaushik</strong>, MSIT
+          <strong>Dr. Anupama Kaushik</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Snadeep Jaglan</strong>, MSIT
@@ -106,7 +106,7 @@
           <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Suneel Gupta</strong>, MSIT
+          <strong>Dr. Sunil Gupta</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Shalu</strong>, MSIT
@@ -183,9 +183,9 @@
         <li class="px-3 py-2">
           <strong>Dr. Naresh Kumar</strong>
         </li>
-        <li class="px-3 py-2">
+        <!-- <li class="px-3 py-2">
           <strong>Dr. Adeel Hashmi</strong>
-        </li>
+        </li> -->
         <li class="px-3 py-2">
           <strong>Dr. Vikrant Shokeen</strong>
         </li>

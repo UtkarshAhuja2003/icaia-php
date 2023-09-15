@@ -7,7 +7,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://kit.fontawesome.com/4e315737a7.js" crossorigin="anonymous"></script>
      <script src="https://cdn.tailwindcss.com"></script>
-    <title>ICAIA 2023</title>
+    <title>ICAIA 2024</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
