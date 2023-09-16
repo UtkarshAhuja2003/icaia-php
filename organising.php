@@ -53,10 +53,10 @@
           <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Prabhjot Kaur</strong>, MSIT
+          <strong>Prof. Prabhjot Kaur</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Koyal Datta Gupta</strong>, MSIT
+          <strong>Prof. Koyal Datta Gupta</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
@@ -78,13 +78,13 @@
           <strong>Prof. Meena Tushir</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Puneet Azad</strong>, MSIT
+          <strong>Prof. Puneet Azad</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Anupama Kaushik</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Snadeep Jaglan</strong>, MSIT
+          <strong>Dr. Sandeep Jaglan</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
@@ -181,7 +181,7 @@
       </button>
       <ul id="website_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
-          <strong>Dr. Naresh Kumar</strong>
+          <strong>Prof. Naresh Kumar</strong>
         </li>
         <!-- <li class="px-3 py-2">
           <strong>Dr. Adeel Hashmi</strong>
@@ -297,7 +297,7 @@
           <strong>Mr. Manoj Malik</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Puneet Azad</strong>
+          <strong>Prof. Puneet Azad</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Rakesh Kumar</strong>
