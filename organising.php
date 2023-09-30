@@ -53,6 +53,9 @@
           <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
+          <strong>Dr. Archana Balyan</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
           <strong>Prof. Prabhjot Kaur</strong>, MSIT
         </li>
         <li class="px-3 py-2">
@@ -281,7 +284,7 @@
           <strong>Dr. Poonam Dahiya</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Neelam Barak</strong>
+          <strong>Dr. Sandeep</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Ms. Vaani Garg</strong>
@@ -295,9 +298,6 @@
       <ul id="local_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Mr. Manoj Malik</strong>
-        </li>
-        <li class="px-3 py-2">
-          <strong>Prof. Puneet Azad</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Rakesh Kumar</strong>

@@ -9,7 +9,7 @@
         <h1 class='mt-4 tracking-[1px] md:tracking-wide text-[#D3B683] text-2xl'>In association with Wentworth Institute of Technology, Boston-USA</h1>
       </div>
       <div class='text-center text-2xl font-[700] mt-4'>
-        <h1 class='text-[#fcb810] text-3xl z-10 tracking-widest'>March,2024</h1>
+        <h1 class='text-[#fcb810] text-3xl z-10 tracking-widest'>19-20 March 2024</h1>
         <!-- <button class='mt-6 pb-2 pt-1 px-4 text-white border-2 border-[#fcb810] rounded-[15px] font-[500] hover:bg-[#fcb810] ease-in-out duration-300 hover:text-black'>Important Dates</button> -->
       </div>
 
