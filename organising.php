@@ -56,7 +56,7 @@
           <strong>Prof. Prabhjot Kaur</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Prof. Koyal Datta Gupta</strong>, MSIT
+          <strong>Prof. Koyel Datta Gupta</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
@@ -165,7 +165,7 @@
           <strong>Ms. Mamta Rani</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Ms. Divya</strong>, MSIT
+          <strong>Dr. Divya</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
