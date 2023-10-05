@@ -53,7 +53,7 @@
           <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Archana Balyan</strong>, MSIT
+          <strong>Prof. Archna Balyan</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Prof. Prabhjot Kaur</strong>, MSIT
