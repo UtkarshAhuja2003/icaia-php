@@ -12,23 +12,13 @@
                 <li class="px-3 py-1"><strong>Mr. Sachin Gaur</strong>, Local Coordinator, India EU ICT standards Collaboration project</li>
                 <li class="px-3 py-1"><strong>Prof. Valentina Emilia Balas</strong>, Aurel Vlaicu University of Arad, Romania</li>
                 <li class="px-3 py-1"><strong>Prof. Chuan-Ming Liu</strong>, National Taipei University of Technology, Taiwan</li>
-                <li class="px-3 py-1"><strong>Prof. Vikram Kumar</strong>, Emeritus Prof. IITD & Ex-Dir., NPL</li>
-                <li class="px-3 py-1"><strong>Prof. S.D. Joshi</strong>, IIT, Delhi, New Delhi</li>
                 <li class="px-3 py-1"><strong>Prof. A.P. Mittal</strong>, AICTE & NSUT, New Delhi</li>
-                <li class="px-3 py-1"><strong>Prof. R.C. Bansal</strong>, University of Sharjah, Sharjah, UAE</li>
                 <li class="px-3 py-1"><strong>Prof. Shunsaku Hashimoto</strong>, University of the Ryukyus, Japan</li>
                 <li class="px-3 py-1"><strong>Prof. Xavier Fernando</strong>, Ryerson University, Canada</li>
-                <li class="px-3 py-1"><strong>Dr. Kamal Hossain</strong>, International Director, NPL, UK</li>
-                <li class="px-3 py-1"><strong>Dr. Toshiyuki Takastsuji</strong>, Director, NMIJ, Japan</li>
-                <li class="px-3 py-1"><strong>Dr. Yi Hua Tang</strong>, Physicist, NIST, USA</li>
-                <li class="px-3 py-1"><strong>Dr. D. K. Aswal</strong>, Director, CSIR- NPL, New Delhi</li>
-                <li class="px-3 py-1"><strong>Prof. D.P. Kothari</strong>, Ex. Director, IIT Delhi</li>
-                <li class="px-3 py-1"><strong>Dr. Krishan Lal</strong>, President, INSA and Ex- DNPL, India</li>
-                <li class="px-3 py-1"><strong>Mr. Anil Relia</strong>, Director, NABL, India</li>
-                <li class="px-3 py-1"><strong>Prof. Saraju Mohanty</strong>, University of North Texas</li>
                 <li class="px-3 py-1"><strong>Dr. Sophia Maggelakis</strong>, Provost and Executive Vice President for Academic Affairs, WIT </li>
                 <li class="px-3 py-1"><strong>Dr. Ali Khabari</strong>, Dean, School of Engineering, WIT </li>
                 <li class="px-3 py-1"><strong>Dr. En-Bing Lin</strong>, Associate Dean, SCDS, WIT</li>
+                <li class="px-3 py-1"><strong>Prof. Saraju Mohanty</strong>,University of North Texas</li>
                 <li class="px-3 py-1"><strong>Dr. Kiran Gulia</strong>, University of Wolverhampton, UK </li>
                 <li class="px-3 py-2"><strong>Prof. Linga Reddy Cenkeramddi</strong>, University of Agder, Norway</li>                
             </ul>
@@ -49,14 +39,13 @@
                 <li class="px-3 py-2"><strong>Prof. S.D. Joshi</strong>, IIT Delhi</li>
                 <li class="px-3 py-2"><strong>Dr. Rajendra Singh</strong>, IIT Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Amit Prakash</strong>, GGSIPU, New Delhi</li>
-                <li class="px-3 py-2"><strong>Dr. Amit M. Joshi</strong>, MNIT, Jaipur</li>
                 <li class="px-3 py-2"><strong>Prof. Ashok De</strong>, DTU Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Navin Rajpal</strong>, GGSIPU, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. R.K. Sinha</strong>, Director, CSIR-CSIO, Chandigarh, Panjab</li>
                 <li class="px-3 py-2"><strong>Prof. S.K. Dhurander</strong>, NSUT, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. T.S. Bhatti</strong>, IIT Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Sangeeta Sabharwal</strong>, NSUT, Delhi</li>
-                <li class="px-3 py-2"><strong>Prof.. Amita Malik</strong>, DCRUST, Haryana</li>
+                <li class="px-3 py-2"><strong>Prof. Amita Malik</strong>, DCRUST, Haryana</li>
                 <li class="px-3 py-2"><strong>Prof. Suresh Kumar</strong>, MRIU, Haryana</li>
                 <li class="px-3 py-2"><strong>Prof. Poonam Bansal</strong>, IGDTU, New Delhi</li>
             </ul>
