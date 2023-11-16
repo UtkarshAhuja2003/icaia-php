@@ -8,10 +8,28 @@
       </button>
       <ul id="organising_chair_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2">
-          <strong>Dr. Ranjit Singh</strong> - Director, Maharaja Surajmal Institute of Technology, New Delhi.
+          <strong>General Chair(s)</strong>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Prof. Valentina E. Balas</span>, University of Arad, Romania
+          </li>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Prof. Anu Singh Lather - Vice Chancellor</span>, Dr. B.R. Ambedkar University, Delhi
+          </li>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi
+          </li>
         </li>
         <li class="px-3 py-2">
-          <strong>Durga Suresh-Menon</strong>, Dean - School of Computing & Data Science, Wentworth Institute of Technology, Boston, USA
+          <strong>Conference Chair</strong>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Dr. Ranjit Singh</span>
+          </li>
+        </li>
+        <li class="px-3 py-2">
+          <strong>Conference Co-Chair</strong>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Dr. Durga Suresh-Menon</span>
+          </li>
         </li>
       </ul>
     </li>
