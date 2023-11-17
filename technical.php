@@ -1,7 +1,9 @@
 <div class="mt-8">
 <ul
                 class="mx-3 md:ml-32">
-                <li class="px-3 py-2"><strong> Dr. Amit M. Joshi</strong>, MNIT, Jaipur</li><strong>(Technical Program Committee –Chair)</strong>
+                <li class="px-3 py-2"><strong> Dr. Amit M. Joshi</strong>, MNIT, Jaipur<strong> (Technical Program Committee –Chair)</strong></li>
+                <li class="px-3 py-2"><strong> Prof. Nalina Suresh</strong>, University of Namibia</li>
+                <li class="px-3 py-2"><strong> Prof. Pratik Narang</strong>, CSIS, BITS Pilani, India</li>
                 <li class="px-3 py-2"><strong> Prof. D. K. Lobiyal</strong>, SCSS, JNU, Delhi</li>
                 <li class="px-3 py-2"><strong> Prof. Animesh Mukherjee</strong>, IIT Kharagpur, India</li>
                 <li class="px-3 py-2"><strong> Prof. Angshul Mazumdar</strong>, IIIT, Delhi, India</li>
@@ -9,13 +11,11 @@
                 <li class="px-3 py-2"><strong> Prof. Bhupesh Kumar</strong>,  Arba Minch University, Ethiopia</li>
                 <li class="px-3 py-2"><strong> Prof. Guy-alain Zodi</strong>, Namibia University of Science &amp;amp; Technology, Namibia</li>
                 <li class="px-3 py-2"><strong> Prof. Basant Tiwari</strong>, HAWASSA University, Ethiopia</li>
-                <li class="px-3 py-2"><strong> Prof. Nalina Suresh</strong>, University of Namibia</li>
                 <li class="px-3 py-2"><strong> Prof. Vikram Goyal</strong>, IIIT Delhi, , India</li>
                 <li class="px-3 py-2"><strong> Prof. Sandeep Kumar</strong>, IIT Delhi, India</li>
                 <li class="px-3 py-2"><strong> Prof. Anuja Arora</strong>, Jaypee University, NOIDA, U.P., India</li>
                 <li class="px-3 py-2"><strong> Prof. Ayesha Chaudhary</strong>, SCSS, JNU, Delhi, India</li>
                 <li class="px-3 py-2"><strong> Prof. Pratik Chattopadhyay</strong>, IIT(BHU), Varanasi, India</li>
-                <li class="px-3 py-2"><strong> Prof. Pratik Narang</strong>, CSIS, BITS Pilani, India</li>
                 <li class="px-3 py-2"><strong> Prof. P. S. Rana</strong>, Thapar University, India</li>
                 <li class="px-3 py-2"><strong> Prof. Partha Pritam Roy</strong>, IIT, Roorkee, India</li>
                 <li class="px-3 py-2"><strong> Prof. Dharmender Kumar</strong>, GJU, Hisar, HR,India</li>

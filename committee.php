@@ -9,7 +9,7 @@
       <div class="grid grid-cols-3 mt-8">
         <button class="tab text-lg rounded-lg text-white w-[80%] ml-[10%] py-1 bg-[#041C32]" onclick="changeTab(1)">Organising Committee</button>
         <button class="tab text-lg rounded-lg text-black w-[80%] ml-[10%] py-1 bg-white" onclick="changeTab(2)">Advisory Committee</button>
-        <button class="tab text-lg rounded-lg text-black w-[80%] ml-[10%] py-1 bg-white" onclick="changeTab(3)">Technical Committee</button>
+        <button class="tab text-lg rounded-lg text-black w-[80%] ml-[10%] py-1 bg-white" onclick="changeTab(3)">Technical Program Committee</button>
       </div>
 
       <div id="content1" class="content mt-8">
