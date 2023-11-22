@@ -15,10 +15,12 @@
     <?php include("./header.php")?>
     <?php include("./about.php")?>
     <?php include("./tracks.php")?>
-    <?php include("./committee.php")?>
-    <?php include("./registrations.php")?>
-    <?php include("./dates.php")?>
     <?php include("./submissions.php")?>
+    <?php include("./committee.php")?>
+    <?php include("./schedule.php")?>
+    <?php include("./registrations.php")?>
+    <?php include("./callforpapers.php")?>
+    <?php include("./dates.php")?>
     <?php include("./contact.php")?>
     <?php include("./footer.php")?>
   </body>
