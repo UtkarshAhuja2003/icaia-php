@@ -14,17 +14,14 @@
                 Track I: AI for Systems (Evolutionary Algorithms)
             </button>
             <ul id="track1"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Agent Based Systems</li>
-                <li class="px-3 py-1">●	Ant Colony Optimization</li>
+                <li class="px-3 py-1">●	Optimization Techniques</li>
                 <li class="px-3 py-1">●	AI Algorithms</li>
                 <li class="px-3 py-1">●	Heuristic & AI Planning Strategies </li>
-                <li class="px-3 py-1">●	Feature Selection</li>
-                <li class="px-3 py-1">●	Interactive GAs</li>
                 <li class="px-3 py-1">●	Genetic Programming</li>
                 <li class="px-3 py-1">●	Bi-level and Multi-level Optimization</li>
                 <li class="px-3 py-1">●	Ensemble based Genetic Algorithms</li>
-                <li class="px-3 py-1">●	Machine Learning Applications</li>
           
             </ul>
         </li>
@@ -36,17 +33,14 @@
                 Track II: Deep AI & Neural Networks
             </button>
             <ul id="track2"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                <li class="px-3 py-1">●	Machine Learning</li>
                 <li class="px-3 py-1">●	Deep Learning</li>
                 <li class="px-3 py-1">●	Big Data Analytics</li>
-                <li class="px-3 py-1">●	Machine Learning</li>
-                <li class="px-3 py-1">●	Clustering</li>
                 <li class="px-3 py-1">●	CNN</li>
-                <li class="px-3 py-1">●	Reinforcement Learning</li>
                 <li class="px-3 py-1">●	Computer Vision</li>
-                <li class="px-3 py-1">●	Speech Understanding</li>
-                <li class="px-3 py-1">●	Supervised Algorithms</li>
-                <li class="px-3 py-1">●	Deep Learning and Cybersecurity</li>
+                <li class="px-3 py-1">●	Speech Recognition</li>
+                <li class="px-3 py-1">●	Cybersecurity</li>
                 <li class="px-3 py-1">●	Mining and Exploratory Analysis</li>
             </ul>
         </li>
@@ -58,17 +52,13 @@
                 Track III: AI for IoT Applications
             </button>
             <ul id="track3"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	IoT Design and Implementations</li>
                 <li class="px-3 py-1">●	Big Data in IoT</li>
                 <li class="px-3 py-1">●	Cloud & IoT</li>
-                <li class="px-3 py-1">●	Information & Communication Technology for IoT Applications</li>
+                <li class="px-3 py-1">●	IoT Applications</li>
                 <li class="px-3 py-1">●	IoT Enabled Innovation & Entrepreneurship</li>
                 <li class="px-3 py-1">●	Security and Privacy</li>
-                <li class="px-3 py-1">●	OT in Smart Cities and Traffic Management</li>
-                <li class="px-3 py-1">●	AI in IoT Market Analysis</li>
-                <li class="px-3 py-1">●	IoT to Solve Pervasive</li>
-                <li class="px-3 py-1">●	IoT Issues</li>
                 
             </ul>
         </li>
@@ -80,18 +70,15 @@
                 Track IV: Robotics & AI
             </button>
             <ul id="track4"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Automation Science and Engineering</li>
                 <li class="px-3 py-1">●	Robust Control</li>
                 <li class="px-3 py-1">●	Sensor Network Systems</li>
                 <li class="px-3 py-1">●	Man, Machine Interaction</li>
                 <li class="px-3 py-1">●	Robotics Science and Engineering</li>
                 <li class="px-3 py-1">●	Robot Sensing and Data Fusion</li>
-                <li class="px-3 py-1">●	Space and Underwater Robots</li>
                 <li class="px-3 py-1">●	Vision Science and Engineering</li>
-                <li class="px-3 py-1">●	Human Computer Interaction</li>
                 <li class="px-3 py-1">●	Robotics IoT Embedded Systems</li>
-                <li class="px-3 py-1">●	Applications</li>
             </ul>
         </li>
 
@@ -103,15 +90,13 @@
                 Track V: Knowledge Representation
             </button>
             <ul id="track5"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Web Intelligence Applications and Search</li>
                 <li class="px-3 py-1">●	Semantic Web Techniques and Technologies</li>
                 <li class="px-3 py-1">●	Information Retrieval</li>
                 <li class="px-3 py-1">●	Connectivity and Networking</li>
-                <li class="px-3 py-1">●	Ontology and Super Ontology</li>
-                <li class="px-3 py-1">●	Knowledge and Intelligence </li>
+                <li class="px-3 py-1">●	Ontology</li>
                 <li class="px-3 py-1">●	Reasoning about Knowledge and Belief</li>
-                <li class="px-3 py-1">●	Spatial Reasoning and Temporal Reasoning </li>
             </ul>
         </li>
     </ul>

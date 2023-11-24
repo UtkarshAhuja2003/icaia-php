@@ -15,12 +15,12 @@
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/3 text-center">Student/Research Scholar</div>
-            <div class="w-1/3 text-center">4500</div>
-            <div class="w-1/3 text-center">150</div>
+            <div class="w-1/3 text-center">5000</div>
+            <div class="w-1/3 text-center">200</div>
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 ">
-            <div class="w-1/3 text-center">Academics</div>
-            <div class="w-1/3 text-center">5500</div>
+            <div class="w-1/3 text-center">Faculty</div>
+            <div class="w-1/3 text-center">7000</div>
             <div class="w-1/3 text-center">250</div>
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
@@ -34,7 +34,7 @@
             <div class="w-1/3 text-center">25</div>
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/3 text-center">Extra Pages (After 8 pages)</div>
+            <div class="w-1/3 text-center">Extra Pages (After 10 pages)</div>
             <div class="w-1/3 text-center">500 INR Per Page</div>
             <div class="w-1/3 text-center">15 USD Per Page</div>
         </div>

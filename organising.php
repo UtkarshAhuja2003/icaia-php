@@ -240,7 +240,7 @@
           <strong>Dr. Sonia Rathee</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Navdeep Bohra</strong>, MSIT
+          <strong>Mr. Sushil Kumar</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Mr. Sachit Rathee</strong>, MSIT
@@ -302,7 +302,7 @@
           <strong>Dr. Poonam Dahiya</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Sandeep</strong>
+          <strong>Dr. Sandeep Singh</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Ms. Vaani Garg</strong>
