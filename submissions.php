@@ -13,13 +13,13 @@
     </p> 
     <p class="text-lg">Manuscripts, which are here referred as submissions/ articles/ papers are the substantial piece of academic writing. Manuscripts for ICAIA-2024 will ONLY be accepted in electronic format through Microsoft CMT online submission system.</p>
     <br>
-    <p class="text-lg text-blue-500"><a href="https://cmt3.research.microsoft.com/ICAIAconf2023">https://cmt3.research.microsoft.com/ICAIAconf2023</a></p>
+    <p class="text-lg text-blue-500"><a href="https://cmt3.research.microsoft.com/ICAIAconf2024">https://cmt3.research.microsoft.com/ICAIAconf2024</a></p>
     <br>
     <p class="text-lg">The Original unpublished Research Papers, Articles & Working papers having length 8-10 pages on the topics related to the theme are invited for presentation/publication in the conference proceedings.</p>
 
     <div class="pl-3 text-lg mt-3">
           <p>1. Kindly ensure that your paper is formatted as per <a class="text-blue-500 bg-yellow-200" href="assets/springer_guidelines.pdf" download>Springer Guidelines</a> (8-10 pages written in A4 size). Please refer the attached springer template for preparation of your paper.<a class="text-blue-500 bg-yellow-200" href="assets/Template.docm" download>(Springer Template)</a></p>
-          <p>2.	All papers must be submitted online via <a class="underline hover:text-blue-500" href="https://cmt3.research.microsoft.com/ICAIAconf2023">https://cmt3.research.microsoft.com/ICAIAconf2023</a></p>
+          <p>2.	All papers must be submitted online via <a class="underline hover:text-blue-500" href="https://cmt3.research.microsoft.com/ICAIAconf2024">https://cmt3.research.microsoft.com/ICAIAconf2024</a></p>
           <p>3.	All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.</p>
           <p>4.	Only papers presenting original content with novel research results or successful innovative applications will be considered for publication in the conference proceedings (as chapters in edited volumes of AIS Series).</p>
     </div>
