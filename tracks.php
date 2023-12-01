@@ -11,7 +11,7 @@
             <button type="button"
                 class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
                 onclick="toggleDropdown('track1')">
-                Track I: AI for Systems (Evolutionary Algorithms)
+                Track I: Evolutionary Algorithms
             </button>
             <ul id="track1"
                 class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
@@ -19,6 +19,7 @@
                 <li class="px-3 py-1">●	Optimization Techniques</li>
                 <li class="px-3 py-1">●	AI Algorithms</li>
                 <li class="px-3 py-1">●	Heuristic & AI Planning Strategies </li>
+                <li class="px-3 py-1">●	Interactive Genetic Algorithms</li>
                 <li class="px-3 py-1">●	Genetic Programming</li>
                 <li class="px-3 py-1">●	Bi-level and Multi-level Optimization</li>
                 <li class="px-3 py-1">●	Ensemble based Genetic Algorithms</li>

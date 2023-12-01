@@ -1,12 +1,12 @@
 
-  <nav id="navbar" class=" z-50 w-full fixed top-0 left-0">
+  <nav id="navbar" class="bg-[#041C32] z-50 w-full fixed top-0 left-0">
     <div class="md:flex items-center justify-between bg-theme py-1 xl:px-16 px-6 md:px-14">
       <div class="cursor-pointer">
         <a href="/">
         <div class="flex justify-left">
-        <img class='z-10 w-[80px] mt-1' src="https://msit.in/static/img/msit.png" alt="" />
-        <img class='z-10 w-[110px]' src="./images/witLogo.png" alt="" />
-        <img class='z-10 w-[110px] bg-white my-4 px-2' src="./images/springer-logo.svg" alt="" />
+        <div><img class='z-10 w-[80px] mt-2' src="https://msit.in/static/img/msit.png" alt="" /></div>
+        <div><img class='z-10 w-[80px] ml-2' src="./images/witLogo.png" alt="" /></div>
+        <img class='z-10 w-[110px] bg-white my-4 px-2 ml-4' src="./images/springer-logo.svg" alt="" />
         </div>
         </a>
       </div>
