@@ -22,7 +22,7 @@
         <li class="px-3 py-2">
           <strong>Conference Chair</strong>
           <li class="px-3 py-2">
-          <span class="font-semibold">Dr. Archana Balyan</span>
+          <span class="font-semibold">Prof. Archana Balyan</span>
           </li>
         </li>
         <li class="px-3 py-2">
