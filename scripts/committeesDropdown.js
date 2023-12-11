@@ -11,7 +11,7 @@ function toggleDropdown(id) {
   }
 
   // Open the "Organising Chair" section by default
-  const organisingChairDropdown = document.getElementById('organising_chair_dropdown');
+  const organisingChairDropdown = document.getElementById('patrons_dropdown');
   organisingChairDropdown.classList.remove('hidden');
 
   const track12 = document.getElementById('track1');

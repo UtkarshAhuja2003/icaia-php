@@ -14,9 +14,9 @@
     <?php include("./navbar.php")?>
     <?php include("./header.php")?>
     <?php include("./about.php")?>
+    <?php include("./committee.php")?>
     <?php include("./tracks.php")?>
     <?php include("./submissions.php")?>
-    <?php include("./committee.php")?>
     <?php include("./schedule.php")?>
     <?php include("./registrations.php")?>
     <?php include("./callforpapers.php")?>
@@ -27,5 +27,5 @@
   <script src="./scripts/navbar.js"></script>
   <script src="./scripts/scrollNav.js"></script>
   <script src="./scripts/committees.js"></script>
- <script src="./scripts/committeesDropdown.js"></script>
+ <script src="./scripts/committeesDropDown.js"></script>
 </html>

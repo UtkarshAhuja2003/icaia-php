@@ -26,7 +26,7 @@
     <p class='text-md md:text-xl  pt-4 pb-2 italic font-[700]'>
     Plagiarism Policy:
     </p> 
-    <p class="text-lg">1.	The paper prior to submission should be checked for plagiarism from licensed plagiarism softwares like Turnitin/iAuthenticate etc. The similarity content should not exceed 15% (in any case either self contents or others). Further, you have to strictly implement the following ethical guidelines for publication.</p>
+    <p class="text-lg">1.	The paper prior to submission should be checked for plagiarism from licensed plagiarism softwares like Turnitin/ithenticate etc. The similarity content should not exceed 15% (in any case either self contents or others). Further, you have to strictly implement the following ethical guidelines for publication.</p>
     <p class="text-lg">2.	Any form of self-plagiarism or plagiarism from others' work(s) should not be there in an article.If any model / concept / figure / table / data / conclusive comment by any previously published work is used in your article, you should properly cite a reference to the original work.</p>
     <p class="text-lg pb-16">3.	Also language of explaining it should not be same as language of the work from which you have adopted it.If you are using any copyrighted material, you should acquire prior permission from the copyright holder.</p>
 

@@ -2,6 +2,31 @@
 
 <div class="w-64">
   <ul class="space-y-2">
+
+
+
+  <li class="relative">
+      <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_dropdown')">
+        Patrons
+      </button>
+      <ul id="patrons_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+        <li class="px-3 py-2">
+        <li class="px-3 py-2"><strong> Sh. Kaptan Singh</strong>,  <strong> (President)</strong> SMES, New Delhi</li>
+                <li class="px-3 py-2"><strong>Ms. Esha Jakhar</strong>,<strong> (Vice - President)</strong> SMES, New Delhi</li>
+                <li class="px-3 py-2"><strong> Prof. Prem Vrat</strong>,<strong> (Pro - Chancellor)</strong> North Cap University, Gurgaon</li>
+                <li class="px-3 py-2"><strong> Mr. Karnal Singh</strong>,<strong> (IPS, Former Director)</strong> Enforcement Directorate </li>
+                <li class="px-3 py-2"><strong> Mr. Ajit Singh Chaudhary</strong>, <strong> (Secretary)</strong> SMES, New Delhi</li>
+                <li class="px-3 py-2"><strong> Prof. Raj Pal Solanki</strong>,<strong> (Treasurer)</strong> SMES, New Delhi </li>
+                <li class="px-3 py-2"><strong> Prof. Tejbir Singh Rana</strong>,<strong> (Chairman, Academic Committee)</strong> SMES, New Delhi </li>
+                <li class="px-3 py-2"><strong> Sh. S.S. Solanki</strong><strong>(Chairman Disciplinary(L))</strong> SMES, New Delhi</li>
+        </li>
+      </ul>
+    </li>
+
+
+
+
+
     <li class="relative">
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('organising_chair_dropdown')">
         Organising Chair
@@ -69,9 +94,6 @@
       <ul id="technical_review_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
-        </li>
-        <li class="px-3 py-2">
-          <strong>Prof. Archna Balyan</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Prof. Prabhjot Kaur</strong>, MSIT
@@ -277,7 +299,7 @@
           <strong>Ms. Neelam Nehra</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Meenakshi Tomar</strong>
+          <strong>Dr. Minakshi Tomer</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Ms. Saba Khanum</strong>

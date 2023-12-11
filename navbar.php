@@ -21,13 +21,13 @@
           <a href="#overview" class="nav-link">Overview</a>
         </li>
         <li class="lg:ml-6 md:ml-2 sm:tracking-tighter md:text-[10px] lg:text-[11px] xl:text-lg font-normal xl:tracking-wider leading-5 md:my-0 my-7">
+          <a href="#committee" class="nav-link">Committees</a>
+        </li>
+        <li class="lg:ml-6 md:ml-2 sm:tracking-tighter md:text-[10px] lg:text-[11px] xl:text-lg font-normal xl:tracking-wider leading-5 md:my-0 my-7">
           <a href="#tracks" class="nav-link">Tracks</a>
         </li>
         <li class="lg:ml-6 md:ml-2 sm:tracking-tighter md:text-[10px] lg:text-[11px] xl:text-lg font-normal xl:tracking-wider leading-5 md:my-0 my-7">
           <a href="#submissions" class="nav-link">Submissions</a>
-        </li>
-        <li class="lg:ml-6 md:ml-2 sm:tracking-tighter md:text-[10px] lg:text-[11px] xl:text-lg font-normal xl:tracking-wider leading-5 md:my-0 my-7">
-          <a href="#committee" class="nav-link">Committees</a>
         </li>
         <li class="lg:ml-6 md:ml-2 sm:tracking-tighter md:text-[10px] lg:text-[11px] xl:text-lg font-normal xl:tracking-wider leading-5 md:my-0 my-7">
           <a href="#schedule" class="nav-link">Schedule</a>
