@@ -4,10 +4,10 @@
 
 // window.addEventListener('scroll', function() {
 //   if (window.scrollY > navbarHeight) {
-//     navbar.style.backgroundColor = '#041C32';
+//     navbar.style.backgroundColor = '#365372';
 //     springerlogo.style.backgroundColor = '#ffffff';
 //   } else {
-//     navbar.style.backgroundColor = '#041C32';
+//     navbar.style.backgroundColor = '#365372';
 //     springerlogo.style.backgroundColor = 'transparent';
 //   }
 // });

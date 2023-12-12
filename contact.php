@@ -5,7 +5,7 @@
             <h1 class="text-[#c00000] text-center text-3xl font-[600]">
               CONTACT US
             </h1>
-            <div class="w-48 h-[2px] mx-auto mt-2 bg-[#041C32] rounded-xl"></div>
+            <div class="w-48 h-[2px] mx-auto mt-2 bg-[#365372] rounded-xl"></div>
           </div>
           <div class="md:flex  justify-center">
             <div class="bg-[#f0f0f0] md:w-[25%] m-[5%] pb-[2%] rounded-lg">

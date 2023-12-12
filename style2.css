@@ -66,3 +66,20 @@ a:hover:after{
 }
 
 
+.marquee-container {
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .marquee-content {
+    animation: marqueeAnimation 2s linear infinite;
+  }
+
+  @keyframes marqueeAnimation {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }

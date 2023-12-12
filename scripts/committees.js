@@ -6,7 +6,7 @@
     for (let i = 0; i < buttons.length; i++) {
       if (i === tabNumber - 1) {
         buttons[i].classList.add('active');
-        buttons[i].style.backgroundColor = '#041C32';
+        buttons[i].style.backgroundColor = '#365372';
         buttons[i].style.color = 'white';
         contents[i].style.display = 'block';
       } else {

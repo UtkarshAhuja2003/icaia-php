@@ -3,7 +3,7 @@
     <div class=' bg-white pt-12 md:px-[10%]'>
       <div class='pt-16'>
         <h1 class='text-[#c00000] text-center text-3xl font-[600]'>TRACKS</h1>
-        <div class='w-[100px] h-[2px] mx-auto mt-2 bg-[#041C32] rounded-xl mb-8'></div>
+        <div class='w-[100px] h-[2px] mx-auto mt-2 bg-[#365372] rounded-xl mb-8'></div>
       </div>
       <div class="w-[300px]">
     <ul class="space-y-2">

@@ -1,27 +1,27 @@
-<div id="submissions"  class="h-28 bg-white w-full">
+<div id="submissions"  class="h-16 bg-white w-full">
 
 </div>
 
-<div class='w-full '>
-      <div class='bg-[#e9e9e9] px-[15%]'>
+<div class='w-full text-white'>
+      <div class='bg-blue-400 px-[15%]'>
       <div>
         <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>SUBMISSIONS</h1>
-        <div class='w-48 h-[3px] mx-auto mt-2 bg-[#041C32] rounded-xl'></div>
+        <div class='w-48 h-[3px] mx-auto mt-2 bg-[#365372] rounded-xl'></div>
       </div>
       <p class='text-md md:text-xl  mt-8 pb-2 italic font-[700]'>
       INSTRUCTION TO AUTHORS
     </p> 
     <p class="text-lg">Manuscripts, which are here referred as submissions/ articles/ papers are the substantial piece of academic writing. Manuscripts for ICAIA-2024 will ONLY be accepted in electronic format through Microsoft CMT online submission system.</p>
     <br>
-    <p class="text-lg text-blue-500"><a href="https://cmt3.research.microsoft.com/ICAIAconf2024">https://cmt3.research.microsoft.com/ICAIAconf2024</a></p>
+    <p class="text-lg text-yellow-200"><a href="https://cmt3.research.microsoft.com/ICAIAconf2024">https://cmt3.research.microsoft.com/ICAIAconf2024</a></p>
     <br>
-    <p class="text-lg">The Original unpublished Research Papers, Articles & Working papers having length 8-10 pages on the topics related to the theme are invited for presentation/publication in the conference proceedings.</p>
+    <p class="text-lg">The Original unpublished Research Papers, Articles & Working papers having minimum length 10 pages on the topics related to the theme are invited for presentation/publication in the conference proceedings.</p>
 
-    <div class="pl-3 text-lg mt-3">
-          <p>1. Kindly ensure that your paper is formatted as per <a class="text-blue-500 bg-yellow-200" href="assets/springer_guidelines.pdf" download>Springer Guidelines</a> (8-10 pages written in A4 size). Please refer the attached springer template for preparation of your paper.<a class="text-blue-500 bg-yellow-200" href="assets/Template.docm" download>(Springer Template)</a></p>
-          <p>2.	All papers must be submitted online via <a class="underline hover:text-blue-500" href="https://cmt3.research.microsoft.com/ICAIAconf2024">https://cmt3.research.microsoft.com/ICAIAconf2024</a></p>
+    <div class="pl-3 text-lg mt-3"  id="submissionsText">
+          <p>1. Kindly ensure that your paper is formatted as per <a class="text-blue-500 bg-yellow-200" href="assets/springer_guidelines.pdf" download>Springer Guidelines</a> (minimum 10 pages written in A4 size). Please refer the attached springer template for preparation of your paper.<a class="text-blue-500 bg-yellow-200" href="assets/Template.docm" download>(Springer Template)</a></p>
+          <p>2.	All papers must be submitted online via <a class="underline text-yellow-200" href="https://cmt3.research.microsoft.com/ICAIAconf2024">https://cmt3.research.microsoft.com/ICAIAconf2024</a></p>
           <p>3.	All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.</p>
-          <p>4.	Only papers presenting original content with novel research results or successful innovative applications will be considered for publication in the conference proceedings (as chapters in edited volumes of AIS Series).</p>
+          <p class="text-justify" id="textnew">4.	Only papers presenting original content with novel research results or successful innovative applications will be considered for publication in the conference proceeding which will be published in the Springer book series <a class="text-yellow-200 underline" href="https://www.springer.com/series/16171">Algorithm of Intelligent System (AIS)</a>. The best selected papers presented at the conference, after further reviewing, will be published in the special issue <a class="text-yellow-200 underline" href="https://www.springer.com/journal/11082/updates/26010850">'Quantum Photonics for Healthcare'</a> of SCI indexed Springer Journal 'Optical and Quantum Electronics'. The papers submitted for the journal consideration must be in the scope of Journal special issue.</p>
     </div>
     <p class='text-md md:text-xl  pt-4 pb-2 italic font-[700]'>
     Plagiarism Policy:

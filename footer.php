@@ -1,4 +1,4 @@
-<div class='w-full md:h-96 footer bg-[#041c32]'>    
+<div class='w-full md:h-96 footer bg-[#365372]'>    
     <img class='mx-auto pt-6 md:pt-12 w-[80px] md:w-[120px]' src="https://msit.in/static/img/msit.png" alt="" />
     <h1 href="https://msit.in/" class='cursor-pointer text-white font-[600] text-center pt-4 text-lg md:text-2xl'>msit.in</h1>
     <div class='w-[60%] mx-auto h-[0px] border-dashed border-blue-900 border-[1px]  mt-2 md:mt-4'></div>
