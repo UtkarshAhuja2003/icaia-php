@@ -22,14 +22,5 @@ ISO-9001:2015 ceied Institute with all programmes being NBA accredited.</p>
 <p class='text-md md:text-xl text-white  mt-8 pb-2 font-[700]'>
       ABOUT WIT
     </p> 
-    <p class="text-lg pb-16 text-justify text-white">For more than a century, Wentwoh Institute of Technology has delivered a rst-rate
-and highly relevant education to prepare graduates for rewarding careers. Along
-with close faculty mentorship, Wentwoh has prepared students to work with
-industry-standard technology by employing one of the most eective practices in
-education: you learn something best by doing it. Wentwoh is a nationally recognized,
-private, coeducational university oering master’s, bachelor's, and associate degrees,
-in addition to ceicate programs, to more than 3,900 full-time students each year.
-More than 50,000 students—who have assumed leadership roles in a multitude of
-professions in industry, education, non-prots, and government—have graduated
-since Wentwoh opened its doors in 1911.</p>
+    <p class="text-lg pb-16 text-justify text-white">For more than a century, Wentworth Institute of Technology has delivered a first-rate and highly relevant education to prepare graduates for rewarding careers. Along with close faculty mentorship, Wentworth has prepared students to work with industry-standard technology by employing one of the most effective practices in education: you learn something best by doing it. Wentworth is a nationally recognized, private, coeducational university offering master's, bachelor's, and associate degrees, in addition to certificate programs, to more than 3,900 full-time students each year. More than 50,000 students—who have assumed leadership roles in a multitude of professions in industry, education, non-profits, and government—have graduated since Wentworth opened its doors in 1911.</p>
 </div>

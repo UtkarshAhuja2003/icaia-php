@@ -119,8 +119,6 @@
                 <li class="px-3 py-2"><strong>Dr. Ashok Kumar Thavani Andu</strong>, Christ University, Bangluru, Karnataka, India</li>
                 <li class="px-3 py-2"><strong>Dr. Ashok Srivastava</strong>, Sanskriti Engineering College, Mathura, India</li>
 
-
-
             </ul>
 
 

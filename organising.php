@@ -48,13 +48,13 @@
         <li class="px-3 py-2">
           <strong>Conference Chair</strong>
           <li class="px-3 py-2">
-          <span class="font-semibold">Prof. Archana Balyan</span>
+          <h1><span class="font-semibold">Prof. Archana Balyan</span>, Director, MSIT</h1>
           </li>
         </li>
         <li class="px-3 py-2">
           <strong>Conference Co-Chair</strong>
           <li class="px-3 py-2">
-          <span class="font-semibold">Dr. Durga Suresh-Menon</span>
+          <h1><span class="font-semibold">Dr. Durga Suresh-Menon</span>, Dean, School of computing and Data Science, WIT, USA</h1>
           </li>
         </li>
       </ul>
@@ -100,6 +100,9 @@
           <strong>Prof. Prabhjot Kaur</strong>, MSIT
         </li>
         <li class="px-3 py-2">
+          <strong>Prof. Archana Balyan</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
           <strong>Prof. Koyel Datta Gupta</strong>, MSIT
         </li>
         <li class="px-3 py-2">
@@ -123,6 +126,9 @@
         </li>
         <li class="px-3 py-2">
           <strong>Prof. Puneet Azad</strong>, MSIT
+        </li>
+        <li class="px-3 py-2">
+          <strong>Prof. Tripti Sharma</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Anupama Kaushik</strong>, MSIT
@@ -227,6 +233,9 @@
         <li class="px-3 py-2">
           <strong>Prof. Naresh Kumar</strong>
         </li>
+        <li class="px-3 py-2">
+          <strong>Prof. Rinky Dwivedi</strong>
+        </li>
         <!-- <li class="px-3 py-2">
           <strong>Dr. Adeel Hashmi</strong>
         </li> -->
@@ -288,13 +297,13 @@
       </button>
       <ul id="reception_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
+          <strong>Dr. Nishtha Jatana</strong>
+        </li>
+        <li class="px-3 py-2">
           <strong>Dr. Pooja Kherwa</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Dr. Jyoti Khurana</strong>
-        </li>
-        <li class="px-3 py-2">
-          <strong>Dr. Nishtha Jatana</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Ms. Neelam Nehra</strong>
@@ -313,10 +322,9 @@
       </button>
       <ul id="hospitality_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
-          <strong>Dr. Dinesh Sheoran</strong>
-        </li>
-        <li class="px-3 py-2">
           <strong>Dr. Vimal Gaur</strong>
+        </li><li class="px-3 py-2">
+          <strong>Dr. Dinesh Sheoran</strong>
         </li>
         <li class="px-3 py-2">
           <strong>Mr. Surender Singh</strong>

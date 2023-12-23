@@ -40,6 +40,18 @@
             <p>VIT-AP University</p>
             <p>Andhra Pradesh, India</p>
         </div>
+        <div class="w-[330px] mx-auto my-3 text-center font-[700]">
+            <img class="w-full rounded-full border border-[6px] border-gray-500" src="images/speakers/8.jpg" alt="">
+            <p class="bg-[#c00000] z-[100] rounded-lg py-2 text-white px-6  my-2">Prof. Ram Bilas Pachori</p>
+            <p>IIT Indore</p>
+            <p>Indore, India</p>
+        </div>
+        <div class="w-[330px] mx-auto my-3 text-center font-[700]">
+            <img class="w-full rounded-full border border-[6px] border-gray-500" src="images/speakers/9.jpg" alt="">
+            <p class="bg-[#c00000] z-[100] rounded-lg py-2 text-white px-6  my-2">Dr. Amit M Joshi</p>
+            <p>MNIT</p>
+            <p>Jaipur, India</p>
+        </div>
     </div>
   </div>
   <div >

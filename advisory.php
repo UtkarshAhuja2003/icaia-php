@@ -10,6 +10,7 @@
                 class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1"><strong>Prof. Sheng-Lung Peng</strong>, National Dong Hwa University, Taiwan,</li>
                 <li class="px-3 py-1"><strong>Mr. Sachin Gaur</strong>, Local Coordinator, India EU ICT standards Collaboration project</li>
+                <li class="px-3 py-1"><strong>Dr. Ramona Lile</strong>, Aurel Vlaicu University of Arad, Romania</li>
                 <li class="px-3 py-1"><strong>Prof. Valentina Emilia Balas</strong>, Aurel Vlaicu University of Arad, Romania</li>
                 <li class="px-3 py-1"><strong>Prof. Chuan-Ming Liu</strong>, National Taipei University of Technology, Taiwan</li>
                 <li class="px-3 py-1"><strong>Prof. A.P. Mittal</strong>, AICTE & NSUT, New Delhi</li>
@@ -20,7 +21,8 @@
                 <li class="px-3 py-1"><strong>Dr. En-Bing Lin</strong>, Associate Dean, SCDS, WIT</li>
                 <li class="px-3 py-1"><strong>Prof. Saraju Mohanty</strong>,University of North Texas</li>
                 <li class="px-3 py-1"><strong>Dr. Kiran Gulia</strong>, University of Wolverhampton, UK </li>
-                <li class="px-3 py-2"><strong>Prof. Linga Reddy Cenkeramddi</strong>, University of Agder, Norway</li>                
+                <li class="px-3 py-2"><strong>Prof. Linga Reddy Cenkeramddi</strong>, University of Agder, Norway</li>  
+                <li class="px-3 py-2"><strong>K P Chaudhary</strong></li>                
             </ul>
         </li>
 
