@@ -4,8 +4,8 @@
       <div class="w-full py-6">
     <marquee class="text-xl">
         <div class="flex">
-          <a href="#submissionsText" id="marqueetext"><ul class="flex text-[#FF0000]"><li>• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></li></ul></a>
-          <a href="#submissionsText" id="marqueetext"><div class="ml-12 text-[#FF0000]" ><span class="text-yellow-500 underline text-sm mr-2">New</span> The best-selected papers presented at the conference will get the opportunity to be published in the Springer SCI Indexed Journal Special Issue "Optical and Quantum Electronics (* within the scope of the journal)".</div></a>
+          <a href="#submissionsText" id="marqueetext"><ul class="flex text-[#FF0000]"><li><span class="text-sm mr-2"><img src="./images/new.gif" alt=""></span>• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></li></ul></a>
+          <a href="#submissionsText" id="marqueetext"><div class="ml-12 text-[#FF0000]" ><span class="text-sm mr-2"><img src="./images/new.gif" alt=""></span>• The best-selected papers presented at the conference will get the opportunity to be published in the Springer SCI Indexed Journal Special Issue "Optical and Quantum Electronics (* within the scope of the journal)".</div></a>
         </div>
     </marquee>
         <!-- <div class="marquee-container">
