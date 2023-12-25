@@ -4,6 +4,7 @@
                 <li class="px-3 py-2"><strong> Dr. Amit M. Joshi</strong>, MNIT, Jaipur<strong> (Technical Program Committee –Chair)</strong></li>
                 <li class="px-3 py-2"><strong> Prof. Nalina Suresh</strong>, University of Namibia</li>
                 <li class="px-3 py-2"><strong> Prof. Pratik Narang</strong>, CSIS, BITS Pilani, India</li>
+                <li class="px-3 py-2"><strong> Prof. Rinky Dwivedi</strong>, MSIT, Delhi, India</li>
                 <li class="px-3 py-2"><strong> Prof. D. K. Lobiyal</strong>, SCSS, JNU, Delhi</li>
                 <li class="px-3 py-2"><strong> Prof. Animesh Mukherjee</strong>, IIT Kharagpur, India</li>
                 <li class="px-3 py-2"><strong> Prof. Angshul Mazumdar</strong>, IIIT, Delhi, India</li>
@@ -38,7 +39,7 @@
                 <li class="px-3 py-2"><strong> Prof. Rajni Jain</strong>, Principal Scientist, ICAR-NIAP, India</li>
                 <li class="px-3 py-2"><strong> Prof. Sarika Jain</strong>, NIT, Kurukshetra, India</li>
                 <li class="px-3 py-2"><strong> Prof. Sherin Zafar</strong>, SEST, Jamia Hamdard, India</li>
-                <li class="px-3 py-2"><strong>Prof. Harimohan Pandey</strong>, Middlesex University, London, UK</li>
+                <li class="px-3 py-2"><strong> Prof. Harimohan Pandey</strong>, Middlesex University, London, UK</li>
                 <li class="px-3 py-2"><strong>Prof. M.K S Sastry</strong>, Namibia University of Science & Technology, Namibia</li>
                 <li class="px-3 py-2"><strong>Prof. Kailash Kumar</strong>, Saudi Electronic University, Riyadh, KSA</li>
                 <li class="px-3 py-2"><strong>Prof. Balamurgan</strong>, Galgotia, Noida, India</li>
@@ -118,7 +119,6 @@
                 <li class="px-3 py-2"><strong>Dr. Arvind Jayant</strong>, SLIET Deemed University, Longowal, Sangrur, Punjab, India</li>
                 <li class="px-3 py-2"><strong>Dr. Ashok Kumar Thavani Andu</strong>, Christ University, Bangluru, Karnataka, India</li>
                 <li class="px-3 py-2"><strong>Dr. Ashok Srivastava</strong>, Sanskriti Engineering College, Mathura, India</li>
-
             </ul>
 
 

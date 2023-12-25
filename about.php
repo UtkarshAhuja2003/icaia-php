@@ -3,21 +3,11 @@
       <div class='mt-4'>
       <div class="w-full py-6">
     <marquee class="text-xl">
-        <div class="flex">
-          <a href="#submissionsText" id="marqueetext"><ul class="flex text-[#FF0000]"><li><span class="text-sm mr-2"><img src="./images/new.gif" alt=""></span>• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></li></ul></a>
-          <a href="#submissionsText" id="marqueetext"><div class="ml-12 text-[#FF0000]" ><span class="text-sm mr-2"><img src="./images/new.gif" alt=""></span>• The best-selected papers presented at the conference will get the opportunity to be published in the Springer SCI Indexed Journal Special Issue "Optical and Quantum Electronics (* within the scope of the journal)".</div></a>
-        </div>
+          <!-- <a href="#submissionsText" id="marqueetext" class="flex text-[#FF0000] text-sm mr-2">• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></a>
+          <a href="#submissionsText" id="marqueetext"><div class="text-[#FF0000]" ><span class="text-sm mr-2"><img src="./images/new.gif" alt=""></span>• The best-selected papers presented at the conference will get the opportunity to be published in the Springer SCI Indexed Journal Special Issue "Optical and Quantum Electronics (* within the scope of the journal)".</div></a> -->
+          <div class="flex"><div><img src="./images/new.gif" alt="123"></div><a href="#submissionsText" class="ml-2 text-[#FF0000] text-lg mr-2">• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></a></div>
+          <div class="flex w-[250%]"><div><img src="./images/new.gif" alt="123"></div><a href="#submissionsText" class="ml-2 text-[#FF0000] text-lg ">• The best selected papers presented at the conference will get the opportunity to be published in the Springer's SCI Indexed Journal Special Issue "Optical and Quantum Electronics (*within the scope of Journal)."</a></div>
     </marquee>
-        <!-- <div class="marquee-container">
-      <div class="marquee-content">
-        <p>Your scrolling text goes here. Repeat as needed. </p>
-        <p>Your scrolling text go231es here. Repeat as needed. </p>
-        <p>Your scrolling text goe3232s here. Repeat as needed. </p>
-        <p>Your scrolling text goe213s here. Repeat as needed. </p>
-        <p>Your scrolling text goes 3213here. Repeat as needed. </p>
-        <p>Your scrolling text goes here. Repeat as needed. </p>
-      </div>
-    </div> -->
 </div>
         <div  id="overview" class=" px-[15%]">
         <h1 class='text-[#c00000] pt-20 text-center text-3xl font-[600]'>CONFERENCE OVERVIEW</h1>

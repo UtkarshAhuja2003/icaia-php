@@ -233,9 +233,6 @@
         <li class="px-3 py-2">
           <strong>Prof. Naresh Kumar</strong>
         </li>
-        <li class="px-3 py-2">
-          <strong>Prof. Rinky Dwivedi</strong>
-        </li>
         <!-- <li class="px-3 py-2">
           <strong>Dr. Adeel Hashmi</strong>
         </li> -->

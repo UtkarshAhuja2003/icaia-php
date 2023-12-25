@@ -43,7 +43,6 @@
                 <li class="px-3 py-2"><strong>Prof. Amit Prakash</strong>, GGSIPU, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Ashok De</strong>, DTU Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Navin Rajpal</strong>, GGSIPU, New Delhi</li>
-                <li class="px-3 py-2"><strong>Prof. R.K. Sinha</strong>, Director, CSIR-CSIO, Chandigarh, Panjab</li>
                 <li class="px-3 py-2"><strong>Prof. S.K. Dhurander</strong>, NSUT, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. T.S. Bhatti</strong>, IIT Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Sangeeta Sabharwal</strong>, NSUT, Delhi</li>
