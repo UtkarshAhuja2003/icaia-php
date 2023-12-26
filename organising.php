@@ -15,10 +15,10 @@
         <li class="px-3 py-2"><strong> Sh. Kaptan Singh</strong>,  <strong> (President)</strong> SMES, New Delhi</li>
                 <li class="px-3 py-2"><strong>Ms. Esha Jakhar</strong>,<strong> (Vice - President)</strong> SMES, New Delhi</li>
                 <li class="px-3 py-2"><strong> Prof. Prem Vrat</strong>,<strong> (Pro - Chancellor)</strong> North Cap University, Gurgaon</li>
-                <li class="px-3 py-2"><strong> Mr. Karnal Singh</strong>,<strong> (IPS, Former Director)</strong> Enforcement Directorate </li>
+                <li class="px-3 py-2"><strong> Sh. Karnal Singh</strong>,<strong> (IPS)</strong> Former Director - Enforcement Directorate </li>
                 <li class="px-3 py-2"><strong> Mr. Ajit Singh Chaudhary</strong>, <strong> (Secretary)</strong> SMES, New Delhi</li>
-                <li class="px-3 py-2"><strong> Prof. Raj Pal Solanki</strong>,<strong> (Treasurer)</strong> SMES, New Delhi </li>
-                <li class="px-3 py-2"><strong> Prof. Tejbir Singh Rana</strong>,<strong> (Chairman, Academic Committee)</strong> SMES, New Delhi </li>
+                <li class="px-3 py-2"><strong> Mr. Raj Pal Solanki</strong>,<strong> (Treasurer)</strong> SMES, New Delhi </li>
+                <li class="px-3 py-2"><strong> Dr. Tejbir Singh Rana</strong>,<strong> (Chairman, Academic Committee)</strong> SMES, New Delhi </li>
                 <li class="px-3 py-2"><strong> Sh. S.S. Solanki</strong><strong>(Chairman Disciplinary(L))</strong> SMES, New Delhi</li>
         </li>
       </ul>
