@@ -5,7 +5,6 @@
                 <li class="px-3 py-2"><strong> Prof. Nalina Suresh</strong>, University of Namibia</li>
                 <li class="px-3 py-2"><strong> Prof. Pratik Narang</strong>, CSIS, BITS Pilani, India</li>
                 <li class="px-3 py-2"><strong> Prof. Rinky Dwivedi</strong>, MSIT, Delhi, India</li>
-                <li class="px-3 py-2"><strong> Prof. D. K. Lobiyal</strong>, SCSS, JNU, Delhi</li>
                 <li class="px-3 py-2"><strong> Prof. Animesh Mukherjee</strong>, IIT Kharagpur, India</li>
                 <li class="px-3 py-2"><strong> Prof. Angshul Mazumdar</strong>, IIIT, Delhi, India</li>
                 <li class="px-3 py-2"><strong> Prof. Dhram singh</strong>, JAAT, Namibia University of Science &amp;amp; Technology, Namibia</li>
@@ -119,6 +118,7 @@
                 <li class="px-3 py-2"><strong>Dr. Arvind Jayant</strong>, SLIET Deemed University, Longowal, Sangrur, Punjab, India</li>
                 <li class="px-3 py-2"><strong>Dr. Ashok Kumar Thavani Andu</strong>, Christ University, Bangluru, Karnataka, India</li>
                 <li class="px-3 py-2"><strong>Dr. Ashok Srivastava</strong>, Sanskriti Engineering College, Mathura, India</li>
+                <li class="px-3 py-2"><strong>Dr. Khyati Chopra</strong>, Assistant Professor, GGSIPU</li>
             </ul>
 
 
