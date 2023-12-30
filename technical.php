@@ -4,7 +4,6 @@
                 <li class="px-3 py-2"><strong> Dr. Amit M. Joshi</strong>, MNIT, Jaipur<strong> (Technical Program Committee –Chair)</strong></li>
                 <li class="px-3 py-2"><strong> Prof. Nalina Suresh</strong>, University of Namibia</li>
                 <li class="px-3 py-2"><strong> Prof. Pratik Narang</strong>, CSIS, BITS Pilani, India</li>
-                <li class="px-3 py-2"><strong> Prof. Rinky Dwivedi</strong>, MSIT, Delhi, India</li>
                 <li class="px-3 py-2"><strong> Prof. Animesh Mukherjee</strong>, IIT Kharagpur, India</li>
                 <li class="px-3 py-2"><strong> Prof. Angshul Mazumdar</strong>, IIIT, Delhi, India</li>
                 <li class="px-3 py-2"><strong> Prof. Dhram singh</strong>, JAAT, Namibia University of Science &amp;amp; Technology, Namibia</li>
@@ -28,7 +27,7 @@
                 <li class="px-3 py-2"><strong> Prof. Chiranjoy Chattopadhyay</strong>, IIT Jodhpur, India</li>
                 <li class="px-3 py-2"><strong> Prof. Dwaipayan Roy</strong>, Indian Institute of Science Education and Research, Kolkata, India </li>
                 <li class="px-3 py-2"><strong> Prof. Kuldeep Singh</strong>, MNIT, Jaipur, India</li>
-                <li class="px-3 py-2"><strong> Prof. satyasai jagannath Nanda</strong>, MNIT, Jaipur</li>
+                <li class="px-3 py-2"><strong> Prof. Satyasai jagannath Nanda</strong>, MNIT, Jaipur</li>
                 <li class="px-3 py-2"><strong> Prof. M. Sandhya</strong>, NIT, Warangal, India</li>
                 <li class="px-3 py-2"><strong> Prof. M. Srinivas</strong>, NIT Warangal, India</li>
                 <li class="px-3 py-2"><strong> Prof. Manjubala Bisi</strong>, NIT Warangal, India</li>

@@ -39,7 +39,6 @@
                 <li class="px-3 py-2"><strong>Prof. Suresh Kumar</strong>, MRIU, Haryana</li>
                 <li class="px-3 py-2"><strong>Prof. Poonam Bansal</strong>, IGDTU, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Rajendra Singh</strong>, IIT Delhi</li>
-                <li class="px-3 py-2"><strong>Prof. Suresh Kumar</strong>, MRIU, Haryana</li>
                 <li class="px-3 py-2"><strong>Prof. Geetali Banerji</strong>, IITM</li>
             </ul>
         </li>

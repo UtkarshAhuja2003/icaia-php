@@ -122,19 +122,25 @@
       </button>
       <ul id="program_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
-          <strong>Prof. Meena Tushir</strong>, MSIT
+          <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Prof. Puneet Azad</strong>, MSIT
+          <strong>Prof. Meena Tushir</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Prof. Tripti Sharma</strong>, MSIT
+          <strong>Prof. Puneet Azad</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Anupama Kaushik</strong>, MSIT
+          <strong>Prof. Tripti Sharma</strong>
         </li>
         <li class="px-3 py-2">
-          <strong>Dr. Sandeep Jaglan</strong>, MSIT
+          <strong> Prof. Rinky Dwivedi</strong>
+        </li>
+        <li class="px-3 py-2">
+          <strong>Dr. Anupama Kaushik</strong>
+        </li>
+        <li class="px-3 py-2">
+          <strong>Dr. Sandeep Jaglan</strong>
         </li>
         <li class="px-3 py-2">
           <span class="org_comm_headings">WIT:</span>
