@@ -17,11 +17,16 @@
         <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7">
           <a href="/" class="nav-link">Home</a>
         </li>
-        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7">
-          <a href="#overview" class="nav-link">Overview</a>
+        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 dropdown">
+          <a class="nav-link">About Us <i class="cursor-pointer fa-solid fa-caret-down"></i></a>
+          <div class="dropdown-content w-[250px]">
+            <a class="hover:text-blue-600 ease-in-out duration-200" href="#overview">Conference Overview</a>
+            <br/>
+            <a class="hover:text-blue-600 ease-in-out duration-200" href="#aboutUs">About Institute</a>
+          </div>
         </li>
         <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7">
-          <a href="https://drive.google.com/file/d/1GVTEhPLXyncCTFp8Zj8rgDkHhXpbKs9O/view?usp=sharing" target="#" class="nav-link">Sponsorship</a>
+          <a href="https://drive.google.com/file/d/1JwJbEWDXLgpx0jkWt8q-mj-qOKlsDE-h/view?usp=sharing" target="#" class="nav-link">Sponsorship</a>
         </li>
         <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7">
           <a href="#committee" class="nav-link">Committees</a>

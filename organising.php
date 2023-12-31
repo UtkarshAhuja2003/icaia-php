@@ -97,10 +97,10 @@
           <span class="org_comm_headings">MSIT:</span>
         </li>
         <li class="px-3 py-2">
-          <strong>Prof. Prabhjot Kaur</strong>, MSIT
+          <strong>Prof. Archana Balyan</strong>, MSIT
         </li>
         <li class="px-3 py-2">
-          <strong>Prof. Archana Balyan</strong>, MSIT
+          <strong>Prof. Prabhjot Kaur</strong>, MSIT
         </li>
         <li class="px-3 py-2">
           <strong>Prof. Koyel Datta Gupta</strong>, MSIT

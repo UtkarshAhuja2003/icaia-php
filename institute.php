@@ -1,11 +1,11 @@
-<div id="submissions"  class="h-12 bg-white w-full ">
+<div id="aboutUs"  class="h-12 bg-white w-full ">
 
 </div>
 
 <div class='w-full '>
       <div class='bg-blue-400 px-[15%]'>
       <div>
-        <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>ABOUT THE INSTITUTE</h1>
+        <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>ABOUT US</h1>
         <div class='w-48 h-[3px] mx-auto mt-2 bg-[#365372] rounded-xl'></div>
   </div>
   <p class='text-md md:text-xl text-white mt-8 pb-2  font-[700]'>

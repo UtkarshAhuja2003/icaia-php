@@ -100,6 +100,14 @@
                 <li class="px-3 py-1">●	Reasoning about Knowledge and Belief</li>
             </ul>
         </li>
+        <li class="relative">
+            <a target="#" href="https://docs.google.com/document/d/1zShaqjFyPai3d6K4WKnidoZunTv1PLJO/edit?usp=sharing&ouid=112522389039078498512&rtpof=true&sd=true">
+                <button type="button"
+                    class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium text-[700] hover:bg-gray-500 focus:outline-none focus:bg-gray-500" >
+                    <span class="font-[900]">SPECIAL SESSION PROPOSAL</span>
+                </button>
+            </a>
+        </li>
     </ul>
 </div>
     </div>
