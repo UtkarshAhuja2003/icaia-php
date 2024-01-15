@@ -33,11 +33,11 @@
               </div>
               <div class="text-center">
                 <h1 class="text-gray-400 text-[22px] font-[500] mt-4">
-                  25552667
+                  011-45037193
                 </h1>
-                <h1 class="text-gray-400 text-[22px] font-[500]">
+                <!-- <h1 class="text-gray-400 text-[22px] font-[500]">
                   25528117
-                </h1>
+                </h1> -->
               </div>
             </div>
             <div class="bg-[#f0f0f0] md:w-[25%] m-[5%] pb-[2%] rounded-lg">

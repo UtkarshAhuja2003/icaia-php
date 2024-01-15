@@ -14,7 +14,7 @@
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
             <div class="w-1/2 text-center">Paper submission last date</div>
-            <div class="w-1/2 text-center">10th January, 2024</div>
+            <div class="w-1/2 text-center"><s>10th</s> 20th January, 2024</div>
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 ">
             <div class="w-1/2 text-center">Acceptance notification date</div>

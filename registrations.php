@@ -8,6 +8,10 @@
         <div class='w-48 h-[3px] mx-auto mt-2 bg-[#365372] rounded-xl'></div>
         <div class="h-12 bg-white w-full"></div>
       </div class="mx-auto">
+      <h2 class=" text-md md:text-lg "><strong>Author/Co-Author Registration Fee Includes: Participation in the technical program, Participation certificate to the presenter</strong></h2>
+      <br>
+      <p>After acceptance of the paper, the registration process begins. It is mandatory for at least one author of an accepted paper to register in order for the paper to appear in the proceedings and included in the Technical Program. </p>
+      <br>
         <div class="flex text-md md:text-lg md:text-xl text-white bg-blue-400 font-[500] py-3">
             <div class="w-1/3"></div>
             <div class="w-1/3 text-center">INR</div>
@@ -43,5 +47,19 @@
             <div class="w-1/3 text-center">18,000</div>
             <div class="w-1/3 text-center">450 </div>
         </div>
+        <br>
+        <h2 class="pb-6 text-md md:text-lg "><strong>Author/Co-Author Registration Fee Includes:</strong><br>
+            1.	Access to Keynote talks <br>
+            2.	Access to paper presentation sessions <br>
+            3.	Conference lunch and refreshment* <br>
+            4.	Tea and Coffee Breaks* <br>
+            5.	Conference kit <br>
+            6.	Publication in Proceeding <br>
+            7.	Participation Certificate <br>
+        </h2>
+        <h2 class=" text-md md:text-lg "><strong>NOTE : </strong></h2>
+        <h2 class=" text-md md:text-lg ">A candidate once registered and paid the registration fee is not allowed to cancel the registration. The registration fee for the conference once paid is not refundable.</h2>
+        <br>
+        <h2 class=" text-md md:text-lg ">The conference is non-residential and delegates are kindly requested to make their own arrangement for accommodation. If you have any query, please drop a mail to us. </h2>
       </div>
 </div>

@@ -19,6 +19,7 @@
                 <li class="px-3 py-2"><strong>Prof. Linga Reddy Cenkeramddi</strong>, University of Agder, Norway</li>
                 <li class="px-3 py-2"><strong>Prof. Alok Prakash Mittal</strong>, AICTE and NSUT, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Chuan-Ming Liu</strong>, National Taipei University of Technology, Taiwan</li>
+                <li class="px-3 py-2"><strong>Prof. Ahmed A. Elngar</strong>, Beni-Suef University, Egypt</li>
             </ul>
         </li>
 
@@ -40,6 +41,7 @@
                 <li class="px-3 py-2"><strong>Prof. Poonam Bansal</strong>, IGDTU, New Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Rajendra Singh</strong>, IIT Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Geetali Banerji</strong>, IITM</li>
+                <li class="px-3 py-2"><strong>Prof. Shyam Agrawal</strong>, KIIT Gurugram</li>
             </ul>
         </li>
     </ul>

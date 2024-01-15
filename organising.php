@@ -39,7 +39,7 @@
           <span class="font-semibold">Prof. Valentina E. Balas</span>, University of Arad, Romania
           </li>
           <li class="px-3 py-2">
-          <span class="font-semibold">Prof. Anu Singh Lather - Vice Chancellor</span>, Dr. B.R. Ambedkar University, Delhi
+          <span class="font-semibold">Dr. Darshana Hooda - Vice Chancellor</span>, Deenbandhu Chhotu Ram University of Science and Technology, Haryana
           </li>
           <li class="px-3 py-2">
           <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi

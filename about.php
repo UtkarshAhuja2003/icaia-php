@@ -5,6 +5,7 @@
     <marquee class="text-xl">
           <!-- <a href="#submissionsText" id="marqueetext" class="flex text-[#FF0000] text-sm mr-2">• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></a>
           <a href="#submissionsText" id="marqueetext"><div class="text-[#FF0000]" ><span class="text-sm mr-2"><img src="./images/new.gif" alt=""></span>• The best-selected papers presented at the conference will get the opportunity to be published in the Springer SCI Indexed Journal Special Issue "Optical and Quantum Electronics (* within the scope of the journal)".</div></a> -->
+          <div class="flex"><div><img src="./images/new.gif" alt="123"></div><a href="#" class="ml-2 text-orange-700 text-lg mr-2">• The Paper Submission Deadline has been Extended to 20th January 2024</a></div>
           <div class="flex"><div><img src="./images/new.gif" alt="123"></div><a href="#submissionsText" class="ml-2 text-[#FF0000 ] text-white text-lg mr-2">• All accepted and presented papers will be published in <strong> Springer's AIS book series</strong></a></div>
           <div class="flex w-[250%]"><div><img src="./images/new.gif" alt="123"></div><a href="#submissionsText" class="ml-2 text-[#FF0000 ] text-white text-lg ">• The best selected papers presented at the conference will get the opportunity to be published in the Springer's SCI Indexed Journal Special Issue "Optical and Quantum Electronics (*within the scope of Journal)."</a></div>
     </marquee>
