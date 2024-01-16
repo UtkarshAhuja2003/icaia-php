@@ -58,9 +58,10 @@
             7.	Participation Certificate <br>
         </h2>
         <h2><strong>NOTE : </strong></h2>
-        <h2>A candidate once registered and paid the registration fee is not allowed to cancel the registration. The registration fee for the conference once paid is not refundable.</h2>
+        <h2>Refund Policy : </h2>
+        <p><li>A candidate once registered and paid the registration fee is not allowed to cancel the registration. The registration fee for the conference once paid is not refundable.</li></p>
         <br>
-        <h2>The conference is non-residential and delegates are kindly requested to make their own arrangement for accommodation. If you have any query, please drop a mail to us. </h2>
+        <p><li>The conference is non-residential and delegates are kindly requested to make their own arrangement for accommodation. If you have any query, please drop a mail to us. </li></p>
       </div>
       </div>
 
