@@ -58,7 +58,7 @@ https://cdn.jsdelivr.net/npm/tiny-slider@2.9.4/dist/tiny-slider.min.css
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&family=Mada:wght@200;300;400;500;600;700;900&display=swap" rel="stylesheet">
-  <script src="./scripts/navbar.js"></script>
+  <script src="./scripts/hamburger.js"></script>
   <script src="./scripts/scrollNav.js"></script>
   <script src="./scripts/committees.js"></script>
  <script src="./scripts/committeesDropDown.js"></script>

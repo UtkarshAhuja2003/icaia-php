@@ -1,4 +1,4 @@
-<div class="w-[300px]">
+<div class="mx-auto md:ml-0 w-[90%] md:w-[300px]">
     <ul class="space-y-2">
         <li class="relative">
             <button type="button"
@@ -7,7 +7,7 @@
                 International Advisory Committee
             </button>
             <ul id="international_dropdown"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1"><strong>Dr. Ramona Lile</strong>, Aurel Vlaicu University of Arad, Romania</li>
                 <li class="px-3 py-1"><strong>Prof. Valentina Emilia Balas</strong>, Aurel Vlaicu University of Arad, Romania</li>
                 <li class="px-3 py-1"><strong>Prof. Xavier Fernando</strong>, Ryerson University, Canada</li>
@@ -30,7 +30,7 @@
                 National Advisory Committee
             </button>
             <ul id="national_dropdown"
-                class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-2"><strong>Prof. K.K. Aggarwal</strong>, Former VC, IP University, India</li>
                 <li class="px-3 py-2"><strong>Prof. Vineet Shaula</strong>, MNIT, Jaipur</li>
                 <li class="px-3 py-2"><strong>Prof. A. Q. Ansari</strong>, Jamia Millia Islamia, New Delhi</li>

@@ -5,7 +5,7 @@
         <h1 class='text-[#c00000] text-center text-3xl font-[600]'>TRACKS</h1>
         <div class='w-[100px] h-[2px] mx-auto mt-2 bg-[#365372] rounded-xl mb-8'></div>
       </div>
-      <div class="w-[300px]">
+      <div class="mx-auto md:ml-0 w-[90%] md:w-[300px]">
     <ul class="space-y-2">
         <li class="relative">
             <button type="button"
@@ -14,7 +14,7 @@
                 Track I: Evolutionary Algorithms
             </button>
             <ul id="track1"
-                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Agent Based Systems</li>
                 <li class="px-3 py-1">●	Optimization Techniques</li>
                 <li class="px-3 py-1">●	AI Algorithms</li>
@@ -34,7 +34,7 @@
                 Track II: Deep AI & Neural Networks
             </button>
             <ul id="track2"
-                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Machine Learning</li>
                 <li class="px-3 py-1">●	Deep Learning</li>
                 <li class="px-3 py-1">●	Big Data Analytics</li>
@@ -53,7 +53,7 @@
                 Track III: AI for IoT Applications
             </button>
             <ul id="track3"
-                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	IoT Design and Implementations</li>
                 <li class="px-3 py-1">●	Big Data in IoT</li>
                 <li class="px-3 py-1">●	Cloud & IoT</li>
@@ -71,7 +71,7 @@
                 Track IV: Robotics & AI
             </button>
             <ul id="track4"
-                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Automation Science and Engineering</li>
                 <li class="px-3 py-1">●	Robust Control</li>
                 <li class="px-3 py-1">●	Sensor Network Systems</li>
@@ -91,7 +91,7 @@
                 Track V: Knowledge Representation
             </button>
             <ul id="track5"
-                class="absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+                class="md:absolute left-full top-0 mt-2 ml-2 w-[400px] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
                 <li class="px-3 py-1">●	Web Intelligence Applications and Search</li>
                 <li class="px-3 py-1">●	Semantic Web Techniques and Technologies</li>
                 <li class="px-3 py-1">●	Information Retrieval</li>

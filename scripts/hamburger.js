@@ -4,5 +4,5 @@ const menuToggle = document.getElementById('menu-toggle');
     menuToggle.addEventListener('click', () => {
       navLinks.classList.toggle('top-20');
       navLinks.classList.toggle('bg-theme');
-      navLinks.classList.toggle('top-[-490px]');
+      navLinks.classList.toggle('top-[-550px]');
     });

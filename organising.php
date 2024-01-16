@@ -1,6 +1,6 @@
 
 
-<div class="w-64">
+<div class="mx-auto md:ml-0 w-[90%] md:w-[300px]">
 
   <ul class="space-y-2">
 
@@ -10,7 +10,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_dropdown')">
         Patrons
       </button>
-      <ul id="patrons_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+      <ul id="patrons_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2">
         <li class="px-3 py-2"><strong> Sh. Kaptan Singh</strong>,  <strong> (President)</strong> SMES, New Delhi</li>
                 <li class="px-3 py-2"><strong>Ms. Esha Jakhar</strong>,<strong> (Vice - President)</strong> SMES, New Delhi</li>
@@ -32,7 +32,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('organising_chair_dropdown')">
         Organising Chair
       </button>
-      <ul id="organising_chair_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
+      <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu open">
         <li class="px-3 py-2">
           <strong>General Chair(s)</strong>
           <li class="px-3 py-2">
@@ -63,7 +63,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('convener_dropdown')">
         Convener
       </button>
-      <ul id="convener_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="convener_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Dr. Amita Yadav</strong>, Department of Computer Science and Engineering, MSIT
         </li>
@@ -73,7 +73,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('co_conveners_dropdown')">
         Co-Conveners
       </button>
-      <ul id="co_conveners_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="co_conveners_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Dr. Geetika Dhand</strong>, Department of Computer Science and Engineering, MSIT
         </li>
@@ -92,7 +92,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('technical_review_dropdown')">
         Technical Review Committee
       </button>
-      <ul id="technical_review_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="technical_review_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
         </li>
@@ -120,7 +120,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('program_committee_dropdown')">
         Program Committee
       </button>
-      <ul id="program_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="program_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
         </li>
@@ -157,7 +157,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('finance_committee_dropdown')">
         Finance Committee
       </button>
-      <ul id="finance_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="finance_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
         </li>
@@ -182,7 +182,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('publication_committee_dropdown')">
         Publication Committee
       </button>
-      <ul id="publication_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="publication_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
         </li>
@@ -207,7 +207,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('publicity_committee_dropdown')">
         Publicity Committee
       </button>
-      <ul id="publicity_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="publicity_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
         </li>
@@ -235,7 +235,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('website_committee_dropdown')">
         Website Committee
       </button>
-      <ul id="website_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="website_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Prof. Naresh Kumar</strong>
         </li>
@@ -251,7 +251,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('registration_committee_dropdown')">
         Registration Committee, MSIT
       </button>
-      <ul id="registration_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="registration_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Dr. Shaily Malik</strong>
         </li>
@@ -267,7 +267,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('sponsorship_committee_dropdown')">
         Sponsorship Committee
       </button>
-      <ul id="sponsorship_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="sponsorship_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <span class="org_comm_headings">MSIT:</span>
         </li>
@@ -298,7 +298,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('reception_committee_dropdown')">
         Reception and Stage Committee, MSIT
       </button>
-      <ul id="reception_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="reception_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Dr. Nishtha Jatana</strong>
         </li>
@@ -323,7 +323,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('hospitality_committee_dropdown')">
         Hospitality Committee, MSIT
       </button>
-      <ul id="hospitality_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="hospitality_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Dr. Vimal Gaur</strong>
         </li><li class="px-3 py-2">
@@ -347,7 +347,7 @@
       <button type="button" class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('local_committee_dropdown')">
         Local Organizing Committee, MSIT
       </button>
-      <ul id="local_committee_dropdown" class="absolute left-full top-0 mt-2 ml-2 w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+      <ul id="local_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
         <li class="px-3 py-2">
           <strong>Mr. Manoj Malik</strong>
         </li>

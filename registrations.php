@@ -48,6 +48,8 @@
             <div class="w-1/3 text-center">450 </div>
         </div>
         <br>
+        <br>
+        <br>
         <h2 class="pb-6 text-md md:text-lg "><strong>Author/Co-Author Registration Fee Includes:</strong><br>
             1.	Access to Keynote talks <br>
             2.	Access to paper presentation sessions <br>

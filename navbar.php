@@ -4,8 +4,9 @@
       <div class="cursor-pointer ">
         <a href="/">
         <div class="flex justify-left">
-        <div><img class='z-10 w-[80px] mt-2' src="https://msit.in/static/img/msit.png" alt="" /></div>
-        <div><img class='z-10 w-[80px] ml-2' src="./images/witLogo.png" alt="" /></div>
+        <div><img class='z-10 w-[80px] mt-2' src="https://msit.in/static/img/msit.png" alt="MSIT_logo" /></div>
+        <div><img class='z-10 w-[80px] ml-2' src="./images/witLogo.png" alt="WIT_logo" /></div>
+        <div><img class='z-10 w-[100px] ml-2 md:hidden' src="./images/springer.png" alt="Springer_logo"/></div>
         <!-- <img class='z-10 w-[110px] my-4 px-2 ml-4' src="./images/springer-logo.svg" alt="" /> -->
         </div>
         </a>
@@ -13,7 +14,7 @@
       <div id="menu-toggle" class="text-3xl text-white absolute right-8 top-6 cursor-pointer md:hidden">
         <span class="fa fa-bars"></span>
       </div>
-      <ul id="nav-links" class="md:flex md:items-center bg-[#365372] md:bg-[transparent] text-black font-[600] tracking-[2px] md:pb-0 pb-12 font-defaultFont absolute md:static md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in top-[-490px]">
+      <ul id="nav-links" class="md:flex md:items-center bg-[#9ca3af] md:bg-[transparent] text-black font-[600] tracking-[2px] md:pb-0 pb-12 font-defaultFont absolute md:static md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in top-[-550px]">
         <!-- <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7">
           <a href="/" class="nav-link">Home</a>
         </li> -->
@@ -50,10 +51,10 @@
         <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7">
           <a href="#registrations" class="nav-link">Registrations</a>
         </li>
-        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 text-center">
+        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 md:text-center">
           <a href="#callforpapers" class="nav-link">Call for papers</a>
         </li>
-        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 text-center">
+        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 md:text-center">
           <a href="#contact" class="nav-link">Contact Us</a>
         </li>
       </ul>
