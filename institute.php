@@ -3,7 +3,7 @@
 </div>
 
 <div class='w-full '>
-      <div class='bg-blue-400 px-[15%]'>
+      <div class='bg-blue-400 px-[8%] md:px-[15%]'>
       <div>
         <h1 class='text-[#c00000] pt-16 text-center text-3xl font-[600]'>ABOUT US</h1>
         <div class='w-48 h-[3px] mx-auto mt-2 bg-[#365372] rounded-xl'></div>
