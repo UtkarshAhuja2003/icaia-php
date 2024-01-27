@@ -42,6 +42,8 @@
                 <li class="px-3 py-2"><strong>Prof. Rajendra Singh</strong>, IIT Delhi</li>
                 <li class="px-3 py-2"><strong>Prof. Geetali Banerji</strong>, IITM</li>
                 <li class="px-3 py-2"><strong>Prof. Shyam Agrawal</strong>, KIIT Gurugram</li>
+                <li class="px-3 py-2"><strong>Prof. Narender Kumar</strong>, DTU, Delhi</li>
+                <li class="px-3 py-2"><strong>Prof. J.S Lather</strong>, NIT, Kurukshetra</li>
             </ul>
         </li>
     </ul>
