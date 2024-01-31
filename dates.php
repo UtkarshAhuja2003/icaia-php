@@ -13,19 +13,19 @@
             <div class="w-1/2 text-center">DATE</div>
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">Paper submission last date</div>
-            <div class="w-1/2 text-center"><s>10th</s> 20th January, 2024</div>
+            <div class="w-1/2 text-center">Paper submission</div>
+            <div class="w-1/2 text-center"><s>10th</s> 10th February, 2024</div>
         </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3 ">
-            <div class="w-1/2 text-center">Acceptance notification date</div>
-            <div class="w-1/2 text-center">10th February, 2024</div>
-        </div>
-        <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
-            <div class="w-1/2 text-center">Camera ready manuscript deadline</div>
+            <div class="w-1/2 text-center">Acceptance notification</div>
             <div class="w-1/2 text-center">20th February, 2024</div>
         </div>
+        <div class="flex   text-md md:text-lg md:text-xl py-3 bg-[#e9e9e9]">
+            <div class="w-1/2 text-center">Camera Ready Submission and Registration</div>
+            <div class="w-1/2 text-center">27th February, 2024</div>
+        </div>
         <div class="flex   text-md md:text-lg md:text-xl py-3">
-            <div class="w-1/2 text-center">Conference Dates</div>
+            <div class="w-1/2 text-center">Conference</div>
             <div class="w-1/2 text-center">19-20th March 2024</div>
         </div>
       </div>
