@@ -55,6 +55,9 @@
           <a href="#callforpapers" class="nav-link">Call for papers</a>
         </li>
         <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 md:text-center">
+          <a href="#video" class="nav-link">ICAIA2020</a>
+        </li>
+        <li class="lg:ml-6 md:ml-2 md:text-[10px] lg:text-[11px] xl:text-lg  leading-5 md:my-0 my-7 md:text-center">
           <a href="#contact" class="nav-link">Contact Us</a>
         </li>
       </ul>
