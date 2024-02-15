@@ -46,6 +46,7 @@
     <?php include("./callforpapers.php")?>
     <?php include("./dates.php")?>
     <?php include("./institute.php")?>
+    <?php include("./video.php")?>
    <?php include("./contact.php")?>
     <?php include("./footer.php")?>
   </body>
