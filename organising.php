@@ -37,12 +37,12 @@
           <strong>General Chair(s)</strong>
           <li class="px-3 py-2">
           <span class="font-semibold">Prof. Valentina E. Balas</span>, University of Arad, Romania
-          </li>
-          <li class="px-3 py-2">
-          <span class="font-semibold">Dr. Darshana Hooda - Vice Chancellor</span>, Deenbandhu Chhotu Ram University of Science and Technology, Haryana
-          </li>
+          </li>  
           <li class="px-3 py-2">
           <span class="font-semibold">Prof. S.K. Garg</span>, Delhi Technical University, New Delhi
+          </li>
+          <li class="px-3 py-2">
+          <span class="font-semibold">Dr. Darshana Hooda</span>, Deenbandhu Chhotu Ram University of Science and Technology, Haryana
           </li>
         </li>
         <li class="px-3 py-2">
@@ -54,7 +54,7 @@
         <li class="px-3 py-2">
           <strong>Conference Co-Chair</strong>
           <li class="px-3 py-2">
-          <h1><span class="font-semibold">Dr. Durga Suresh-Menon</span>, Dean, School of computing and Data Science, WIT, USA</h1>
+          <h1><span class="font-semibold">Durga Suresh-Menon</span>, Dean, School of computing and Data Science, WIT, USA</h1>
           </li>
         </li>
       </ul>
